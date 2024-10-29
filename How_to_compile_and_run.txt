@@ -1,0 +1,23 @@
+------------------------
+HOW TO COMPILE AND RUN
+------------------------
+Compile: g++ Planets.cpp ResourceCenter.cpp User.cpp crewmates.cpp SpaceStoreDriver.cpp Map.cpp Alien.cpp PlayerStatus.cpp LogBook.cpp  Project3Driver.cpp
+Run: ./a.out
+------------------------
+DEPENDENCIES
+------------------------
+Alien.h Crewmates.h LogBook.h Map.h Planets.h PlayerStatus.h ResourceCenter.h SpaceStore.h User.h(Along with all their cpp files) must be in the same directory to compile 
+files in order to compile.
+Additionally you will need these text files to be in your directory
+Alien_conversation.txt Aliens.txt Crewmates.txt four_letter_words.txt inxtructions.txt Questions.txt results.txt
+------------------------
+SUBMISSION INFORMATION
+------------------------
+CSCI1300 Spring 2022 Project 3
+Author: Daniel Folino
+Recitation: 112 – TA Baljot Kaur 
+Date: March 21, 2022
+------------------------
+ABOUT THIS PROJECT
+------------------------
+This project is about a videogame that lets players explore different planets, interact with aliens and explore sites in order to find humanity it’s new home, within the project many interactions are available throughout the playthrough.

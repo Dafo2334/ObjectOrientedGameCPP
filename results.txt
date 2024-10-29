@@ -1,0 +1,35 @@
+Planets explored: 2
+Planets accuratley reported habitable: 0
+Planets inaccuratley reported habitable: 0
+Humans saved (in millions): 0
+Humans perished (in millions): 0
+Total Score: 0
+
+Planets explored: 5
+Planets accuratley reported habitable: 0
+Planets inaccuratley reported habitable: 1
+Humans saved (in millions): 0
+Humans perished (in millions): 4920
+Total Score: 0
+
+Planets explored: 2
+Planets accuratley reported habitable: 0
+Planets inaccuratley reported habitable: 0
+Humans saved (in millions): 0
+Humans perished (in millions): 0
+Total Score: 0
+
+Planets explored: 2
+Planets accuratley reported habitable: 0
+Planets inaccuratley reported habitable: 0
+Humans saved (in millions): 0
+Humans perished (in millions): 0
+Total Score: 0
+
+Planets explored: 2
+Planets accuratley reported habitable: 0
+Planets inaccuratley reported habitable: 2
+Humans saved (in millions): 0
+Humans perished (in millions): 4612
+Total Score: 0
+
